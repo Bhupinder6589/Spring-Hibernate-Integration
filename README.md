@@ -1,1 +1,1 @@
-# SpringMVC
+# Spring-Hinbernate-Integration
